@@ -5,7 +5,7 @@
 
 ## 👩🏻‍💻 Sobre mí
 
-Soy **desarrolladora de software** apasionada por la tecnología y el desarrollo web. 👩‍💻 A lo largo de mi trayectoria, he tenido la oportunidad de participar en emocionantes proyectos de programación , donde he podido aplicar mis habilidades y aprender constantemente.
+ **Desarrolladora de software** apasionada por la tecnología y el desarrollo web. 👩‍💻 A lo largo de mi trayectoria, he tenido la oportunidad de participar en emocionantes proyectos de programación , donde he podido aplicar mis habilidades y aprender constantemente.
 
 Como profesional en el campo del desarrollo, he cultivado la capacidad de comunicarme de manera efectiva y precisa, lo que me permite colaborar de manera fluida en equipos multidisciplinarios. 
 
