@@ -3,13 +3,13 @@
 
 
 
-## 👩🏻‍💻 Sobre mí
+## 👩🏻‍💻 
 
- **Desarrolladora de software** apasionada por la tecnología y el desarrollo web. 👩‍💻 A lo largo de mi trayectoria, he tenido la oportunidad de participar en emocionantes proyectos de programación , donde he podido aplicar mis habilidades y aprender constantemente.
+Desarrolladora de software apasionada por la tecnología y el desarrollo web. A lo largo de mi proceso, he tenido la oportunidad de participar en proyectos de programación, donde he podido aplicar mis habilidades y aprender constantemente.
 
-Como profesional en el campo del desarrollo, he cultivado la capacidad de comunicarme de manera efectiva y precisa, lo que me permite colaborar de manera fluida en equipos multidisciplinarios. 
+He cultivado la capacidad de comunicarme de manera efectiva y precisa, lo que me permite colaborar de manera fluida en equipos multidisciplinarios.
 
-Actualmente, estoy estudiando **Análisis y Desarrollo de Software**, donde sigo ampliando mis conocimientos y habilidades. Estoy entusiasmada por los proyectos en los que he participado, cada uno de los cuales me ha enseñado valiosas lecciones y me ha permitido crecer como profesional.
+Actualmente, estoy estudiando Análisis y Desarrollo de Software, donde sigo ampliando mis conocimientos y habilidades.
 
 
 
