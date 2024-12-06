@@ -1,4 +1,4 @@
-¿![1723588199063](https://github.com/user-attachments/assets/36c238d7-63db-467d-88f4-e63ccc98dfe4)
+![1723588199063](https://github.com/user-attachments/assets/36c238d7-63db-467d-88f4-e63ccc98dfe4)
 
 ## 👩🏻‍💻 
 
@@ -17,9 +17,13 @@ Actualmente, estoy estudiando **Análisis y Desarrollo de Software**, donde sigo
 ![Node.js](https://img.shields.io/badge/-Node.js-8CC84B?style=flat-square&logo=node.js&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+## 🛠️ Otras herramientas
+
+![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=trello&logoColor=white)
 
 - 📧 Correo: [andreazuluagamonroy555@gmail.com](mailto:andreazuluagamonroy555@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/andrea-zuluaga-monroy](https://linkedin.com/in/andrea-zuluaga-monroy)
 
 ¡Gracias por visitar mi perfil!
-
