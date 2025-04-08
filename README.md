@@ -5,11 +5,13 @@
 
 Project Manager | Backend Developer
 
-Apasionada por liderar y construir soluciones tecnológicas que conecten personas, procesos y código. Estudiante de **Análisis y Desarrollo de Software**, con enfoque en la gestión de proyectos digitales y el desarrollo backend.
+Estudiante de Análisis y Desarrollo de Software con enfoque en backend y gestión de proyectos.
 
-Como profesional freelance, he gestionado y desarrollado productos digitales desde una perspectiva integral: identificando necesidades del cliente, traduciéndolas en requerimientos claros, organizando equipos con metodologías ágiles y participando activamente en el desarrollo backend.
+Actualmente lidero proyectos freelance, donde conecto las necesidades del cliente con soluciones funcionales: organizo tareas, gestiono equipos con metodologías ágiles y participo en el desarrollo backend.
 
-Me destaco por mi habilidad para comunicarme de forma efectiva, conectar áreas técnicas con objetivos estratégicos, y mantenerme en constante aprendizaje para aportar valor real a cada proyecto.
+Me gusta construir productos tecnológicos que resuelvan problemas reales, entendiendo tanto el lado técnico como el humano.
+
+Estoy en formación constante para fortalecer mis habilidades como backend developer y project manager, con la visión de convertirme en una profesional integral que une equipos, procesos y tecnología.
 
 
 ## 🍃 Stack de desarrollo
