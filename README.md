@@ -3,7 +3,7 @@
 
 ## 👩🏻‍💻 Sobre mí
 
-Project Manager | Backend Developer
+Software Developer
 
 Estudiante de Análisis y Desarrollo de Software con enfoque en backend y gestión de proyectos.
 
