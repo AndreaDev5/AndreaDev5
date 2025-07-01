@@ -3,15 +3,13 @@
 
 ## 👩🏻‍💻 Sobre mí
 
-Software Developer
+Estudiante de Análisis y Desarrollo de Software con enfoque en desarrollo full stack
 
-Estudiante de Análisis y Desarrollo de Software con enfoque en backend y gestión de proyectos.
+He liderado proyectos freelance, conectando las necesidades del cliente con soluciones funcionales: organizando tareas, gestionando equipos con metodologías ágiles y participando activamente en el desarrollo backend y frontend
 
-Actualmente lidero proyectos freelance, donde conecto las necesidades del cliente con soluciones funcionales: organizo tareas, gestiono equipos con metodologías ágiles y participo en el desarrollo backend.
+Me apasiona construir productos tecnológicos que resuelvan problemas reales, comprendiendo tanto el aspecto técnico como el impacto en los usuarios
 
-Me gusta construir productos tecnológicos que resuelvan problemas reales, entendiendo tanto el lado técnico como el humano.
-
-Estoy en formación constante para fortalecer mis habilidades como backend developer y project manager, con la visión de convertirme en una profesional integral que une equipos, procesos y tecnología.
+Estoy en formación constante para seguir aprendiendo y creciendo como profesional. Busco aprovechar mi experiencia en desarrollo y liderazgo técnico para impulsar la innovación y crear productos que generen un impacto significativo
 
 
 ## 🍃 Stack de desarrollo
