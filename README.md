@@ -2,7 +2,7 @@
 
 ## 👩🏻‍💻 Sobre mí  
 
-Soy **Desarrolladora de Software con especialidad en backend**, con experiencia participando en todo el ciclo de desarrollo: desde levantar requisitos hasta entregar soluciones funcionales y de calidad.  
+ **Desarrolladora de Software con especialidad en backend**, con experiencia participando en todo el ciclo de desarrollo: desde levantar requisitos hasta entregar soluciones funcionales y de calidad.  
 
 He trabajado en proyectos académicos y freelance donde he:  
 - Desarrollado aplicaciones backend con **Node.js, Express, MySQL y MongoDB**  
