@@ -1,4 +1,5 @@
-![banner]<img width="1584" height="396" alt="banner (2)" src="https://github.com/user-attachments/assets/4094b3ad-857b-4588-82f0-041ef0eafcaa" />
+<img width="1584" height="396" alt="banner (3)" src="https://github.com/user-attachments/assets/d99dd198-83ef-4c27-b636-ada23eccedb5" />
+
 
 
 ## 👩🏻‍💻 Sobre mí  
