@@ -4,15 +4,22 @@
 
 ## 👩🏻‍💻 Sobre mí  
 
- **Desarrolladora de Software con especialidad en backend**, con experiencia participando en todo el ciclo de desarrollo: desde levantar requisitos hasta entregar soluciones funcionales y de calidad.  
+ Desarrolladora de Software con enfoque en desarrollo backend y experiencia participando en todo el ciclo de desarrollo, desde la definición de requisitos hasta la entrega de soluciones funcionales y de calidad.
 
-He trabajado en proyectos académicos y freelance donde he:  
-- Desarrollado aplicaciones backend con **Node.js, Express, MySQL y MongoDB**  
-- Gestionado proyectos aplicando **metodologías ágiles**, organizando procesos en Trello y Notion  
-- Colaborado con equipos usando **Git y GitHub**  
-- Realizado documentación, pruebas y aseguramiento de calidad  
+He trabajado en proyectos donde he aplicado:
 
-Me apasiona crear soluciones tecnológicas que aporten valor real 🚀. Actualmente estoy fortaleciendo mis habilidades en **backend** y **Scrum**, con la meta de crecer como profesional integral en desarrollo y gestión de proyectos.  
+- Desarrollo backend con Node.js, Express, MySQL y MongoDB.
+
+- Gestión ágil de proyectos, aplicando Scrum y organizando procesos con Trello y Notion.
+
+- Control de versiones con Git y GitHub, fomentando la colaboración y buenas prácticas de código.
+
+- Documentación, pruebas y aseguramiento de calidad para garantizar resultados confiables.
+
+- Liderazgo y coordinación de proyectos, conectando necesidades del cliente con soluciones reales.
+
+
+Me apasiona crear soluciones tecnológicas que generen valor real y fortalezcan la innovación. Estoy en formación constante, con el objetivo de consolidarme como desarrolladora backend y líder ágil, contribuyendo en proyectos con impacto positivo y duradero. 👩🏻‍💻
 
 👉 Te invito a explorar mis proyectos aquí en GitHub, donde comparto lo que voy construyendo.  
 
