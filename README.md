@@ -14,8 +14,6 @@ He trabajado en proyectos donde he aplicado:
 
 - Control de versiones con Git y GitHub, fomentando la colaboración y buenas prácticas de código.
 
-- Documentación, pruebas y aseguramiento de calidad para garantizar resultados confiables.
-
 - Liderazgo y coordinación de proyectos, conectando necesidades del cliente con soluciones reales.
 
 
