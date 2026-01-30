@@ -1,17 +1,16 @@
 <img width="1584" height="396" alt="banner (3)" src="https://github.com/user-attachments/assets/d99dd198-83ef-4c27-b636-ada23eccedb5" />
 
 
-# 👩🏻‍💻 Data Analyst
+# 👩🏻‍💻 FinOps Analyst
 
 ## Sobre mí  
 
-Data Analyst en formación con base en análisis y desarrollo de software, enfocada en **convertir datos en información estratégica** para la toma de decisiones operativas.  
 
-Actualmente fortaleciendo habilidades en **Python, Excel, SQL, Power BI y fundamentos de nube (AWS)**, aplicando lo aprendido en ejercicios y proyectos prácticos de analítica y operaciones.  
+Soy FinOps Analyst con formación en Análisis y Desarrollo de Software, apasionada por combinar datos, tecnología y negocio para apoyar la toma de decisiones y aportar valor real en los proyectos y equipos donde participo.
 
-Apasionada por aprender, aplicar soluciones prácticas y crecer profesionalmente en el área de datos, aportando valor a los proyectos y equipos donde participo 👩🏻‍💻  
+Actualmente me desempeño en la consolidación, validación y análisis de información financiero-operativa, aplicando herramientas como Excel, Power BI y SQL, con un enfoque en detalle, eficiencia y calidad de los datos.
 
-👉 Te invito a explorar mis ejercicios y proyectos en GitHub, donde comparto lo que voy construyendo.  
+👉 Te invito a explorar mis ejercicios y proyectos en GitHub, donde comparto lo que voy construyendo y cómo aplico datos y análisis al negocio. 
 
 ---
 
