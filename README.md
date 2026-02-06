@@ -5,11 +5,11 @@
 
 ## Sobre mí  
 
-Soy FinOps Analyst con formación en Análisis y Desarrollo de Software, apasionada por combinar datos, tecnología y negocio para tomar decisiones informadas y generar valor real en los proyectos y equipos donde participo.
+FinOps Analyst con formación en Análisis y Desarrollo de Software, enfocada en conectar datos, tecnología y negocio para generar visibilidad, control y valor en la operación.
 
-Actualmente me desempeño en la consolidación, validación y análisis de información financiero-operativa, utilizando herramientas como Excel, Power BI y SQL, con un enfoque en eficiencia, detalle y calidad de los datos.
+Trabajo en la consolidación, validación y análisis de información financiero-operativa, apoyando el seguimiento de productividad, facturabilidad, márgenes y WIP, y asegurando datos confiables para la toma de decisiones. Manejo herramientas como Excel, Power BI y SQL, con un alto enfoque en orden, detalle y calidad de la información.
 
-Me motiva aprender constantemente, aportar valor y crecer profesionalmente, siempre uniendo mi base técnica con la visión del negocio para impulsar resultados medibles.
+Me caracterizo por mi mentalidad analítica, disciplina y aprendizaje continuo. Busco crecer en entornos donde la tecnología, los datos y el negocio se integran para impulsar resultados medibles y operaciones eficientes 👩🏻‍💻
 
 👉 Te invito a explorar mis ejercicios y proyectos en GitHub, donde comparto lo que voy construyendo y cómo aplico datos y análisis al negocio. 
 
