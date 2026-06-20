@@ -5,13 +5,14 @@
 
 ## Sobre mí  
 
-FinOps Analyst con formación en Análisis y Desarrollo de Software, enfocada en conectar datos, tecnología y negocio para generar visibilidad, control y valor en la operación.
+FinOps con formación en Análisis y Desarrollo de Software, enfocada en análisis de datos y optimización de procesos. Trabajo con indicadores operativos, identificando desviaciones y generando insights para la toma de decisiones.
 
-Trabajo en la consolidación, validación y análisis de información financiero-operativa, apoyando el seguimiento de productividad, facturabilidad, márgenes y WIP, y asegurando datos confiables para la toma de decisiones. Manejo herramientas como Excel, Power BI y SQL, con un alto enfoque en orden, detalle y calidad de la información.
+
+Me interesa la automatización y el uso de tecnología para mejorar la eficiencia y transformar la información en valor para el negocio. Disfruto aprender y entender a profundidad cómo funcionan los procesos para mejorarlos continuamente.
 
 Me caracterizo por mi mentalidad analítica, disciplina y aprendizaje continuo. Busco crecer en entornos donde la tecnología, los datos y el negocio se integran para impulsar resultados medibles y operaciones eficientes 👩🏻‍💻
 
-👉 Te invito a explorar mis ejercicios y proyectos en GitHub, donde comparto lo que voy construyendo y cómo aplico datos y análisis al negocio. 
+👉 Te invito a explorar mis  proyectos en GitHub
 
 ---
 
@@ -20,7 +21,6 @@ Me caracterizo por mi mentalidad analítica, disciplina y aprendizaje continuo. 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)  
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)  
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C80F?style=flat-square&logo=microsoft-power-bi&logoColor=white)  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  
 ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white)  
 ![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=trello&logoColor=white)  
