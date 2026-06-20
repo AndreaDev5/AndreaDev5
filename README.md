@@ -1,7 +1,7 @@
 <img width="1584" height="396" alt="banner (3)" src="https://github.com/user-attachments/assets/d99dd198-83ef-4c27-b636-ada23eccedb5" />
 
 
-# 👩🏻‍💻 Data Analyst | Process Automation | FinOps
+#  Data Analyst | Process Automation | FinOps
 
 ## Sobre mí  
 
