@@ -5,7 +5,7 @@
 
 ## Sobre mí  
 
-FinOps con formación en Análisis y Desarrollo de Software, enfocada en análisis de datos y optimización de procesos. Trabajo con indicadores operativos, identificando desviaciones y generando insights para la toma de decisiones.
+Data Analyst con formación en Análisis y Desarrollo de Software, enfocada en análisis de datos y optimización de procesos. Trabajo con indicadores operativos, identificando desviaciones y generando insights para la toma de decisiones.
 
 
 Me interesa la automatización y el uso de tecnología para mejorar la eficiencia y transformar la información en valor para el negocio. Disfruto aprender y entender a profundidad cómo funcionan los procesos para mejorarlos continuamente.
