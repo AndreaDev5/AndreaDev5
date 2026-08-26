@@ -7,9 +7,9 @@
 
 ## Sobre mí
 
-Soy **Analista y Desarrolladora de Software**, enfocada en **análisis de datos** y **automatización de procesos**. Trabajo con indicadores operativos: identifico desviaciones, aseguro la calidad de la información y la transformo en insights para tomar mejores decisiones.
+Soy Analista de Datos y Tecnóloga en Análisis y Desarrollo de Software, enfocada en análisis de datos, optimización y automatización de procesos.
 
-Me apasiona **simplificar procesos** y usar la tecnología —incluida la IA— para hacerlos más eficientes. Y sobre todo, me encanta aprender constantemente: cada reto nuevo es una oportunidad para crecer. 👩🏻‍💻
+Me interesa conectar datos, tecnología e inteligencia artificial para comprender procesos, identificar oportunidades de mejora y construir soluciones eficientes y confiables 👩🏻‍💻
 
 🌐 **Explora mi portafolio:** **[andreadev5.github.io/andrea-zuluaga-portfolio](https://AndreaDev5.github.io/andrea-zuluaga-portfolio/)**
 
