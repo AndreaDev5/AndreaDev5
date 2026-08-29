@@ -1,7 +1,7 @@
 <img width="1584" height="396" alt="banner" src="https://github.com/user-attachments/assets/d99dd198-83ef-4c27-b636-ada23eccedb5" />
 
 
-# Data Analytics · AI Solutions · Process Automation
+# Data Analyst · AI Solutions · Process Automation
 
 > Convierto datos operativos en información confiable y decisiones de negocio.
 
