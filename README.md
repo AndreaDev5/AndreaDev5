@@ -7,7 +7,7 @@
 
 ## Sobre mí
 
-Soy Analista de Datos y Tecnóloga en Análisis y Desarrollo de Software, enfocada en análisis de datos, optimización y automatización de procesos.
+Tecnóloga en Análisis y Desarrollo de Software, enfocada en análisis de datos, optimización y automatización de procesos.
 
 Me interesa conectar datos, tecnología e inteligencia artificial para comprender procesos, identificar oportunidades de mejora y construir soluciones eficientes y confiables 👩🏻‍💻
 
